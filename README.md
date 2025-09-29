@@ -12,7 +12,7 @@ Navigate Joe in a top-down world to collect all coins and unlock the hatch to ad
 - Key count display above the game field.
 - Smooth 60 FPS rendering with collision detection.
 ## Screenshots
-<img width="948" height="1025" alt="image" src="https://github.com/user-attachments/assets/e66a667c-a868-4750-ab6d-0f4790c9b325" />
+<img width="316" height="341" alt="image" src="https://github.com/user-attachments/assets/e66a667c-a868-4750-ab6d-0f4790c9b325" />
 
 ## Installation
 1. Clone the repo:

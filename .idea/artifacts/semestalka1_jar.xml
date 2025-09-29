@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="semestalka1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/semestalka1_jar</output-path>
+    <root id="archive" name="semestalka1.jar">
+      <element id="module-output" name="Wandering Joe" />
+    </root>
+  </artifact>
+</component>
